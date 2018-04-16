@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-test1",
+  "version": "0.0.0",
+  "description": "NodejsTest1",
+  "main": "app.js",
+  "author": {
+    "name": "reuven"
+  },
+  "dependencies": {
+    "superagent": "^3.8.2"
+  },
+  "scripts": {
+    "get-all-posts": "node app.js",
+    "get-post": "node app.js"
+  }
+}
